@@ -6,6 +6,8 @@ A tiny live internet speed monitor for the Windows 11 taskbar. It shows your cur
 ↑ 17.0 KB/s
 ↓  262 KB/s
 ```
+<img width="816" height="140" alt="image" src="https://github.com/user-attachments/assets/865bea84-6b01-427d-9a4d-655b5b7ec009" />
+
 
 - About 17 KB, a single file, nothing to install
 - Updates once a second
